@@ -1,0 +1,28 @@
+.MenuClass{
+box-sizing: border-box;
+position: absolute;
+width: 100vw;
+height: auto;
+right: 0px;
+top: 0px;
+z-index: 40;
+overflow-x: hidden;
+
+/* Black */
+background: #0B0C0E;
+}
+
+.Button{
+    text-decoration:none;
+    padding-top: 30px;
+    color: white;
+    font-size: 30px;
+    font-family:"Neue Montreal";
+    background: #0B0C0E;
+    border: none;
+ 
+}
+.Button:hover{
+
+    cursor: pointer;
+}

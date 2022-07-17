@@ -1,0 +1,25 @@
+.avatar {
+    margin-top: 50px;
+  
+    /* Rounded border */
+    border-radius: 50%;
+    height: 197px;
+    width: 197px;
+    background-color: #C7D0D9;
+   
+}
+
+.avatarImage {
+    /* Rounded border */
+    border-radius: 50%;
+    object-fit: cover;
+    /* Take full size */
+    height: 100%;
+    width: 100%;
+}
+@media (min-width:630px) {
+    .avatar{
+        margin-left: 50px;
+    }
+    
+ }

@@ -1,0 +1,30 @@
+.ShootAnimation {
+animation-name: Shoot;
+animation-duration: 2s;
+}
+
+@keyframes Shoot {
+    0% {
+        transform: translateX(140px);
+    }
+
+
+    100% {
+        transform: translateX(0px);
+    }
+}
+.ShootInverseAnimation {
+    animation-name: ShootInverse;
+    animation-duration: 2s;
+    }
+    
+    @keyframes ShootInverse {
+        0% {
+            transform: translateX(-140px);
+        }
+    
+    
+        100% {
+            transform: translateX(0px);
+        }
+    }

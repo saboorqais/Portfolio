@@ -1,0 +1,14 @@
+.Wrapper{
+margin-top: 40px;
+color: black;
+width: 90%;
+
+padding-right: 60px;
+}
+
+
+@media (max-width:630px) {
+   .Wrapper{
+    width: 100%;
+   }
+}

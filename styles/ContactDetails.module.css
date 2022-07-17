@@ -1,0 +1,32 @@
+.Wrapper{
+
+margin-left: 50px;
+margin-top: 25px;    
+font-family:"Neue Montreal";
+font-size: 28px;
+font-weight: bold;
+color: #3C3D3E;
+
+}
+
+.TextWrapper{
+
+margin-top: 5px;
+font-family:"Neue Montreal";
+font-size: 23px;
+font-weight: lighter;
+
+
+
+}
+@media (max-width:630px) {
+    .Wrapper{
+        margin-left: 25px;
+    }
+
+ }
+ .TextWrapper:hover{
+
+cursor: pointer;
+
+ }
