@@ -48,8 +48,6 @@ export default function Home() {
 
         <Ticker />
         <About id={1} />
-        <Portfolio data={PhotoLink} />
-        <Portfolio data={PhotoLink2} />
         <About id={2} />
         <Footer />
       </Main>

@@ -3,10 +3,22 @@
 export const Data = [
 
     {
-        title: "The Economic Wolf",
-        link: "https://thewolf.com.co/#/",
-        tag: "Full-Stack-Development  | Django | React | Echarts | Bootstrap"
+        title: "Aiems",
+        link: "http://demo.aiems.ae",
+        tag: "Full-Stack-Development  | Django | React | Mantine | Typescript"
     },
+    {
+
+        title: "Weather Station",
+        link: "https://github.com/saboorqais/WeatherStation",
+        tag: "Front-End Development | Django | ReactJS |  Mantine | ChartJS | IOT | ESP8266 | ThinkSoft API"
+    },{
+
+        title: "Interia",
+        link: "https://github.com/saboorqais/Inertia-FrontEnd",
+        tag: "Full-Stack-Development  | Django | React-Native |  Native Base | Unity | Augmented Reality "
+    },
+
     {
 
         title: "Ethereum Uniswap",
@@ -98,5 +110,5 @@ export const PhotoLink2 =[
     require("../../assests/8.png"),
     require("../../assests/7.png"),
     require("../../assests/6.png"),
-    
+
     ]
